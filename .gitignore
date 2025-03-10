@@ -22,6 +22,9 @@ vocab.bpe
 
 *.pth
 
+124M/
+gpt2/
+
 # OS and temporary files
 .DS_Store
 *.pyc
