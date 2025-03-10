@@ -45,4 +45,4 @@ This is a hands-on exploration of LLM internals, built through trial and error. 
 Got ideas? Found a bug? Want to experiment with me? Open an issue or submit a pull request—I’d love to hear from you!
 
 
-*Built with curiosity, a lot of coffee, and help from open source too.*
+*Built with curiosity, a lot of coffee, and help from open source*
