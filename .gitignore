@@ -20,6 +20,7 @@ model.ckpt.index
 model.ckpt.meta
 vocab.bpe
 
+gpt2/124M
 *.pth
 
 124M/
