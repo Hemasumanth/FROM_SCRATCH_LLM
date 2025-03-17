@@ -38,7 +38,7 @@ This is a hands-on exploration of LLM internals, built through trial and error. 
 
 ## Getting Started
 1. Clone this repo: `git clone <repo-url>`
-2. Install dependencies: `pip install -r requirements.txt` (TBD)
+2. Install dependencies: `pip install -r requirements.txt`
 3. Dive into a folder and start hacking!
 
 ## Contributing
